@@ -1,0 +1,1 @@
+# 02-kisi-basi-hasarli-yapi
